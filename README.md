@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 Atualmente melhorando as habilidades em **python, django.**
 
-- 📫 Como entrar em contato comigo **edumagao80@gmail.com**
+- 📫 Como entrar em contato **edumagao80@gmail.com**
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
