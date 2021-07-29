@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Olá, sou Eduardo Vinícius</h1>
-<h3 align="center">Um desenvolvedor que gosta bastante de frontend e em evolução!</h3>
+<h3 align="center"></h3>
 
 - 🌱 Atualmente melhorando as habilidades em **python, django.**
 
